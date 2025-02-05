@@ -3,6 +3,7 @@
 ## Overview
 
 This project aims to classify user comments from the Snappfood dataset into two sentiment categories: Happy and Sad. The analysis is performed using various machine learning and deep learning techniques while adhering to project constraints, including the prohibition of pre-trained models.
+Technical report is available at : [[Report](https://github.com/JD-CEO/SBU_AdvancedML_FinalProject/blob/main/Persian%20Sentiment%20Analysis%20for%20Marketing/Final%20Project-sentiment%20analysis%20snapfood%20(1).pdf)]
 
 ## Group Members
 
