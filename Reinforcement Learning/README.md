@@ -44,11 +44,11 @@ We sourced our Tetris game environment from existing repositories on GitHub and 
 ### Requirements
 
 - Python 3.x
-- Libraries: `numpy`, `gym`, `tensorflow`, `keras`, `matplotlib`, `pygame`
+- Libraries: `numpy`, `gym`, `tensorflow`, `keras`, `matplotlib`, `pygame` , `pytorch`
 
 Install the required libraries using:
 ```bash
-pip install numpy gym tensorflow keras matplotlib pygame
+pip install numpy gym tensorflow keras matplotlib pygame pytorch
 ```
 
 ## Methodology
