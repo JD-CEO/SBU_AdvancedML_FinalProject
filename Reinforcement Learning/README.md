@@ -2,8 +2,8 @@
 
 ## Overview
 
-This project focuses on creating an environment and training an autonomous agent to play Tetris using Reinforcement Learning (RL). We explore the challenges of applying RL to a delayed reward system, such as Tetris, and implement solutions inspired by recent research (post-2020).
-
+This project focuses on creating an environment and training an autonomous agent to play Tetris using Reinforcement Learning (RL). We explore the challenges of applying RL to a delayed reward system, such as Tetris, and implement solutions inspired by recent research (post-2019).
+Complete documentation is provided in the Tetri.pdf file
 ## Group Members
 
 - Hossein Yahyaei
