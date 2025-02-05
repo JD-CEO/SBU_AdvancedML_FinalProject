@@ -27,7 +27,7 @@ This project encompasses multiple machine learning tasks, each aimed at solving 
 
 ### Task 3: Reinforcement Learning (5 points)
 - **Objective**: Create an environment and train an autonomous agent to play Tetris.
-- **Constraints**: Use techniques proposed in papers from 2020 or later.
+- **Constraints**: Use techniques proposed in papers from 2019 or later.
 - **Innovation**: Creativity in your approach is highly valued for extra credit.
 
 ### Task 4: Few Shot Image Segmentation (5 points)
